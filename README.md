@@ -1,3 +1,4 @@
+![logo](https://github.com/Smita-Maurya/Smita-Maurya/blob/main/githubbanner.jpg)
  <h1 align="center">Hi 👋, I'm Smita Maurya</h1>
 <h3 align="center">A frontend developer 👩</h3>
 <hr>
